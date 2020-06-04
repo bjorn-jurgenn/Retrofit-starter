@@ -1,0 +1,11 @@
+/build
+/src/main/java/cz/jiricerveny/retrofitstarter/MainActivity.kt
+# content of .gitignore
+*.iml
+.gradle
+/local.properties
+/.idea/*
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx

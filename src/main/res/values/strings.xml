@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RetrofitStarter</string>
+    <string name="api_key">5cb0e26dcaeff184d704b75f9b247f6d</string>
+    <string name="landpads">LandPads</string>
+    <string name="location">location</string>
+    <string name="percent">%</string>
+    <string name="hundred">100</string>
+    <string name="successful">successful</string>
+    <string name="zero">0</string>
+    <string name="slash">/</string>
+    <string name="landings">Landings</string>
+    <string name="status">status</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="description">description</string>
+</resources>
